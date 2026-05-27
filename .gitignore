@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+*.pth
+*.npy
+.ipynb_checkpoints/
+dataset/
+MIMIC-CXR-JPG/
+phase4_outputs/
